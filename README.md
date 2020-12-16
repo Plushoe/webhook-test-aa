@@ -15,3 +15,4 @@ Test 14 / ?
 12: Changed back to urlencoded... again again
 13: Changed repo url in jenkins to end in .git
 14: Deleted and readded the jenkins job. Same name and configuration.
+15: Build showed up in Jenkins, but failed with the same error code as in test #7
