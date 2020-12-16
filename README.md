@@ -1,6 +1,6 @@
 # webhook-test-aa
 For testing webhooks with jenkins
-Test 7 / ?
+Test 8 / ?
 
 2: Changed urlencoded to json/application
 3: Changed jenkins settings
@@ -8,3 +8,4 @@ Test 7 / ?
 5: Changed json/application back to urlencoded
 6: Added trailing '/' to payload URL, changed back to json/application
 7: 6 fixed the webhook, now the Jenkins is acting up... Doing a single resend to see if that fixes it
+8: Webhook was still configured to urlencoded, unlike the intended change back in #6. No build was triggered on test #7.
