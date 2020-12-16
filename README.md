@@ -16,3 +16,5 @@ Test 14 / ?
 13: Changed repo url in jenkins to end in .git
 14: Deleted and readded the jenkins job. Same name and configuration.
 15: Build showed up in Jenkins, but failed with the same error code as in test #7
+16: Added a picture to git repo cos... why not (no readme update, the picture was the update)
+17: Wrote entry 16 + 17
