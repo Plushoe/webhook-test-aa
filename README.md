@@ -11,3 +11,4 @@ Test 9 / ?
 8: Webhook was still configured to urlencoded, unlike the intended change back in #6. No build was triggered on test #7.
 9: Removed trailing '/'s from jenkins settings added in test #4
 10: Removed 'github project' option from jenkins settings
+11: Cleared workspace from jenkins that I manually built
