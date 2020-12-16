@@ -1,5 +1,6 @@
 # webhook-test-aa
 For testing webhooks with jenkins
-Test 2 / ?
+Test 3 / ?
 
-Changed urlencoded to json/application
+2: Changed urlencoded to json/application
+3: Changed jenkins settings
