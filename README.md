@@ -1,6 +1,6 @@
 # webhook-test-aa
 For testing webhooks with jenkins
-Test 14 / ?
+Test 19 / ?
 
 2: Changed urlencoded to json/application
 3: Changed jenkins settings
@@ -19,3 +19,4 @@ Test 14 / ?
 16: Added a picture to git repo cos... why not (no readme update, the picture was the update)
 17: Wrote entry 16 + 17
 18: Re-ticked the Jenkins setting 'github project' with the url 'https://github.com/Plushoe/webhook-test-aa/'
+19: Added github credentials to jenkins (even though this repo isn't set to private?)
