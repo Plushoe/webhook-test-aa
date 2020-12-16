@@ -18,3 +18,4 @@ Test 14 / ?
 15: Build showed up in Jenkins, but failed with the same error code as in test #7
 16: Added a picture to git repo cos... why not (no readme update, the picture was the update)
 17: Wrote entry 16 + 17
+18: Re-ticked the Jenkins setting 'github project' with the url 'https://github.com/Plushoe/webhook-test-aa/'
