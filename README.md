@@ -12,3 +12,4 @@ Test 9 / ?
 9: Removed trailing '/'s from jenkins settings added in test #4
 10: Removed 'github project' option from jenkins settings
 11: Cleared workspace from jenkins that I manually built
+12: Changed back to urlencoded... again again
