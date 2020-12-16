@@ -1,6 +1,6 @@
 # webhook-test-aa
 For testing webhooks with jenkins
-Test 20 / ?
+Test 21 / 20
 
 2: Changed urlencoded to json/application
 3: Changed jenkins settings
@@ -21,3 +21,4 @@ Test 20 / ?
 18: Re-ticked the Jenkins setting 'github project' with the url 'https://github.com/Plushoe/webhook-test-aa/'
 19: Added github credentials to jenkins (even though this repo isn't set to private?)
 20: Changed the branch settings from '/\*master' to instead be blank
+21: Showing it works!
