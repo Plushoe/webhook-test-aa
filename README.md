@@ -1,6 +1,6 @@
 # webhook-test-aa
 For testing webhooks with jenkins
-Test 13 / ?
+Test 14 / ?
 
 2: Changed urlencoded to json/application
 3: Changed jenkins settings
@@ -14,3 +14,4 @@ Test 13 / ?
 11: Cleared workspace from jenkins that I manually built
 12: Changed back to urlencoded... again again
 13: Changed repo url in jenkins to end in .git
+14: Deleted and readded the jenkins job. Same name and configuration.
